@@ -1,2 +1,1 @@
-# Quera
-Solution to certain questions
+# مربع مارپیچ
