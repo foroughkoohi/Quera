@@ -1,2 +1,2 @@
 # Quera
-حل برخی سوالات
+Solution to certain questions
